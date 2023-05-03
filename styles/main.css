@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(216, 234, 255);
+    text-align: center;
+}
+section {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.kare-kod {
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.white-box {
+    border: 5px solid white;
+    border-radius: 15px;
+    background-color: white;
+    width: 280px;
+    height: 400px;
+    text-align: center;
+    text-decoration: solid;
+    margin: 250px;
+}
+
